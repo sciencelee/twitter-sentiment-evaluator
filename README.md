@@ -3,11 +3,9 @@
 ### Background
 This was an optional project from the curriculm I have been working through.  (I am interested in doing more NLP)
 
-Below is from the instructions:
-If you choose this option, you'll build an NLP model to analyze Twitter sentiment about Apple and Google products. The dataset comes from CrowdFlower via data.world. Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.
+Goal is to build an NLP model to analyze Twitter sentiment about Apple and Google products. The dataset comes from CrowdFlower via data.world. Human raters rated the sentiment in over 9,000 Tweets as positive, negative, or neither.
 
-Your task is to:
-Build a model that can rate the sentiment of a Tweet based on its content.  Aim for a Proof of Concept
+The intention is to build a model that can rate the sentiment of a Tweet based on its content.  (Aim is for a Proof of Concept)
 
 I started this project by completing a sequence of Deep NLP lessons from Flatiron School in the appendix of Module 4
 This included:
@@ -18,9 +16,6 @@ This included:
 - LSTM (Long Short term Membory) and GRU (Gated Recurrant Unit)
 
 The relevant code for this project will be in this **sentiment.ipnyb** notebook.
-
-
-
 
 
 # Supervised models
