@@ -1,5 +1,8 @@
 # Twitter Sentiment Evaluator
 
+<img src='twitter.png'></img>
+
+
 ### Background
 This was an optional project from the curriculm I have been working through.  (I am interested in doing more NLP)
 
