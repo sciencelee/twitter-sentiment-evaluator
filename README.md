@@ -1,5 +1,3 @@
-# twitter-sentiment-evaluator
-
 # Twitter Sentiment Evaluator
 
 ### Background
