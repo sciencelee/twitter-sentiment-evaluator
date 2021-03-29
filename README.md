@@ -1,6 +1,6 @@
 # Twitter Sentiment Evaluator
 
-<img src='twitter.png'></img>
+<img src='twitter_logo.png'></img>
 
 
 ### Background
